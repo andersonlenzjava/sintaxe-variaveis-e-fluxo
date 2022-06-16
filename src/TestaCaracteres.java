@@ -17,7 +17,7 @@ public class TestaCaracteres {
 		
 		palavra = palavra + 2233;
 		System.out.println(palavra);
-		//
+		////
 	}
 
 }
